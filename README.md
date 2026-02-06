@@ -7,7 +7,7 @@ Also experienced in backend development (Node.js, NestJS) and basic data science
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Frontend:**  
 React, Next.js, Tailwind CSS, Bootstrap, HTML, CSS, JavaScript, TypeScript
@@ -29,35 +29,35 @@ Git, GitHub, Postman, VS Code, Figma
 
 ---
 
-## 🔹 Featured Projects
+## Featured Projects
 
-### **Medical Center Booking System (React)**
+### Medical Center Booking System (React)
 - Appointment booking system with admin dashboard  
 - State management using Context API  
 - Responsive UI using Tailwind CSS  
-🔗 https://github.com/FatmaMoataz/MedicalCenter-Website
+Link: https://github.com/FatmaMoataz/MedicalCenter-Website
 
-### **Bookmarker Web App (JavaScript)**
+### Bookmarker Web App (JavaScript)
 - Bookmark management using localStorage  
 - DOM manipulation and form validation  
 - Responsive UI using Bootstrap  
-🔗 https://github.com/FatmaMoataz/Bookmarker
+Link: https://github.com/FatmaMoataz/Bookmarker
 
-### **Social App Backend (NestJS)**
+### Social App Backend (NestJS)
 - Real-time chat using Socket.io  
 - JWT authentication + Google OAuth  
 - AWS S3 media upload  
-🔗 https://github.com/FatmaMoataz/Social_App
+Link: https://github.com/FatmaMoataz/Social_App
 
-### **E-Commerce Backend (NestJS)**
+### E-Commerce Backend (NestJS)
 - Stripe payment integration  
 - Redis caching and GraphQL APIs  
-🔗 https://github.com/FatmaMoataz/NestJS
+Link: https://github.com/FatmaMoataz/NestJS
 
 ---
 
-## 📫 Contact
+## Contact
 
-- LinkedIn: https://www.linkedin.com/in/fatma-moataz-31a457264/  
-- Email: fatmamoataz65@gmail.com  
-- LeetCode: https://leetcode.com/u/fatmamoataz65/
+LinkedIn: https://www.linkedin.com/in/fatma-moataz-31a457264/  
+Email: fatmamoataz65@gmail.com  
+LeetCode: https://leetcode.com/u/fatmamoataz65/
