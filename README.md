@@ -1,63 +1,57 @@
-# Fatma Moataz
+# 👩‍💻 Fatma Moataz
+**Full-Stack Developer | Software Engineer | Data Science & ML Enthusiast**
 
-**Frontend Developer | Full-Stack Developer | Software Engineer**
-
-Frontend-focused developer with strong experience building responsive and scalable web applications using React and modern frontend tools.  
-Also experienced in backend development (Node.js, NestJS) and basic data science/ML using Python.
+Passionate developer building **scalable web applications**, backend systems, and machine learning solutions. Combining software engineering with data-driven decision-making.  
 
 ---
 
-## Technical Skills
+## 🛠 Technical Skills
 
-**Frontend:**  
-React, Next.js, Tailwind CSS, Bootstrap, HTML, CSS, JavaScript, TypeScript
-
-**Backend:**  
-Node.js, NestJS, Express.js, REST APIs, GraphQL
-
-**Databases:**  
-MongoDB (Mongoose), PostgreSQL (TypeORM)
-
-**Authentication & Security:**  
-JWT, OAuth 2.0
-
-**Data Science & ML:**  
-Python, Pandas, NumPy, Scikit-learn, TensorFlow (basic)
-
-**Tools:**  
-Git, GitHub, Postman, VS Code, Figma
+**Frontend:** React, Next.js, Tailwind CSS, Bootstrap, HTML, CSS, JavaScript, TypeScript  
+**Backend:** Node.js, NestJS, Express.js, REST APIs, GraphQL  
+**Databases:** MongoDB (Mongoose), PostgreSQL (TypeORM)  
+**Authentication & Security:** JWT, OAuth 2.0  
+**Data Science & ML:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, Predictive Modeling, Regression, Classification  
+**Tools:** Git, GitHub, Postman, VS Code, Figma  
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Medical Center Booking System (React)
-- Appointment booking system with admin dashboard  
-- State management using Context API  
-- Responsive UI using Tailwind CSS  
-Link: https://github.com/FatmaMoataz/MedicalCenter-Website
+### 1️⃣ Laptop Price Prediction (Python / ML)
+- 📊 Regression models: Linear Regression, Random Forest, XGBoost, LightGBM, Neural Network  
+- 🎯 Techniques: Feature selection, scaling, cross-validation, hyperparameter tuning  
+- 🏆 Best model: Random Forest (lowest RMSE & highest R²)  
+- 📈 Visuals: Actual vs Predicted & Residual plots  
+- 🔗 [GitHub Repo](https://github.com/FatmaMoataz/Laptop-Price-Prediction)
 
-### Bookmarker Web App (JavaScript)
-- Bookmark management using localStorage  
-- DOM manipulation and form validation  
-- Responsive UI using Bootstrap  
-Link: https://github.com/FatmaMoataz/Bookmarker
+### 2️⃣ Medical Center Booking System (React)
+- 🗓 Appointment booking system with admin dashboard  
+- ⚡ State management: Context API  
+- 🌐 Responsive UI using Tailwind CSS  
+- 🔗 [GitHub Repo](https://github.com/FatmaMoataz/MedicalCenter-Website)
 
-### Social App Backend (NestJS)
-- Real-time chat using Socket.io  
-- JWT authentication + Google OAuth  
-- AWS S3 media upload  
-Link: https://github.com/FatmaMoataz/Social_App
+### 3️⃣ Bookmarker Web App (JavaScript)
+- 🔖 Bookmark management with localStorage  
+- ✨ DOM manipulation & form validation  
+- 🌐 Responsive UI with Bootstrap  
+- 🔗 [GitHub Repo](https://github.com/FatmaMoataz/Bookmarker)
 
-### E-Commerce Backend (NestJS)
-- Stripe payment integration  
-- Redis caching and GraphQL APIs  
-Link: https://github.com/FatmaMoataz/NestJS
+### 4️⃣ Social App Backend (NestJS)
+- 💬 Real-time chat using Socket.io  
+- 🔒 JWT auth + Google OAuth  
+- ☁️ AWS S3 media upload  
+- 🔗 [GitHub Repo](https://github.com/FatmaMoataz/Social_App)
+
+### 5️⃣ E-Commerce Backend (NestJS)
+- 💳 Stripe payment integration  
+- ⚡ Redis caching & GraphQL APIs  
+- 🔗 [GitHub Repo](https://github.com/FatmaMoataz/NestJS)
 
 ---
 
-## Contact
+## 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/fatma-moataz-31a457264/  
-Email: fatmamoataz65@gmail.com  
-LeetCode: https://leetcode.com/u/fatmamoataz65/
+- LinkedIn: [Fatma Moataz](https://www.linkedin.com/in/fatma-moataz-31a457264/)  
+- Email: fatmamoataz65@gmail.com  
+- LeetCode: [fatmamoataz65](https://leetcode.com/u/fatmamoataz65/)
