@@ -57,7 +57,7 @@ flowchart LR
 - **Governance & monitoring:** Gold layer served through Databricks Unity Catalog (lineage), PostgreSQL fallback, Grafana alerting on pipeline health.
 - **Delivery:** 5-page Power BI dashboard (funnel, ROAS, CPA) for business stakeholders.
 
-[Repository](https://github.com/FatmaMoataz/REPLACE-WITH-FUNNELSTREAM-REPO)
+[Repository](https://github.com/omarmohosny/funnelstream)
 
 ---
 
@@ -68,7 +68,7 @@ flowchart LR
 - Built ETL with reusable mapplets (Joiner, Aggregator, DECODE expressions); monitored sessions in Workflow Monitor.
 - Implemented an **`ETL_AUDIT_LOG`** table (rows read, written, rejected, status, errors) and a **safe-rerun recovery plan** separating DDL from repeatable DML loads.
 
-[Repository](https://github.com/FatmaMoataz/REPLACE-WITH-OLYMPICS-REPO)
+[Linkedin Post](https://lnkd.in/p/eEBDwdgx)
 
 ---
 
@@ -79,7 +79,7 @@ flowchart LR
 - Modeled a star schema (4 dimensions + sales fact) with Hive external tables; wrote HiveQL analytics (revenue, profit, monthly trends, 4-way star joins).
 - Automated ingestion of a **577 MB CSV and 477 MB JSON** into an organized HDFS structure, with size and content validation in Bash and the HDFS CLI.
 
-[Repository](https://github.com/FatmaMoataz/REPLACE-WITH-HADOOP-REPO)
+[Repository](https://github.com/FatmaMoataz/Sales-Data-Pipeline)
 
 ---
 
